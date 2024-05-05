@@ -1,0 +1,19 @@
+.bg-success{
+  background-color: aquamarine !important;
+}
+.img{
+ width: 30%;
+}
+.img img{
+  width: 100%;
+
+}
+.products{
+  background-color: bisque;
+}
+.my-container{
+  background-color: aqua;
+}
+.product{
+  background-color: beige;
+}
